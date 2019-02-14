@@ -1,0 +1,24 @@
+//////////////////////////////////////////////////////
+//// named.conf.local
+//// serial 2019021201
+//// version 1
+/////////////////////////////////////////////////////
+
+zone "cgx.be" {
+    type master;
+    file "/etc/bind/zones/db.cgx.be";
+    allow-transfer {213.251.128.154;};
+    allow-query { any; };
+    notify yes;
+};
+
+// reverse 
+zone "250.16.4.62-in-addr.arpa" {
+    type master;
+    file "/etc/bind/zones/250.16.4.62.in-addr.arpa";
+    allow-transfer {213.251.128.154;};
+    allow-query { any; };
+    notify yes;
+};
+
+

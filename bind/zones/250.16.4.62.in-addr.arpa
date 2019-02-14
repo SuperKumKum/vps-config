@@ -1,0 +1,13 @@
+$TTL 12H
+@    IN    SOA    ns.cgx.be. root.cgx.be. (
+     2014070501 ; Serial
+     8H         ; Refresh
+     30M        ; Retry
+     4W         ; Expire
+     8H         ; Minimum TTL
+)
+     IN NS   ns.cgx.be.
+     IN NS   ns1.cgx.be.
+     IN NS   ns110.ovh.net.
+     IN NS   dns110.ovh.net.
+     IN PTR  cgx.be.
