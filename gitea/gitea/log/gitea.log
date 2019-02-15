@@ -1,0 +1,171 @@
+2019/02/14 20:23:20 [I] Log Mode: File(Info)
+2019/02/14 20:23:20 [I] XORM Log Mode: File(Info)
+2019/02/14 20:23:20 [I] Cache Service Enabled
+2019/02/14 20:23:20 [I] Session Service Enabled
+2019/02/14 20:23:20 [I] Beginning ORM engine initialization.
+2019/02/14 20:23:20 [I] ORM engine initialization attempt #1/10...
+2019/02/14 20:23:21 [I] ORM engine initialization successful!
+2019/02/14 20:23:21 [I] Git Version: 2.20.1
+2019/02/14 20:23:21 [I] Git config user.name set to Gitea
+2019/02/14 20:23:21 [I] Git config user.email set to gitea@fake.local
+2019/02/14 20:23:21 [I] SQLite3 Supported
+2019/02/14 20:23:21 [I] Run Mode: Production
+2019/02/14 20:23:21 [I] First-time run install finished!
+2019/02/14 20:23:51 [I] Failed authentication attempt for chris from 81.242.160.132
+2019/02/14 20:24:15 [.../api/v1/user/user.go:170 GetUserHeatmapData()] [E] GetUserHeatmapDataByUser: Error 1305: FUNCTION gitea.strftime does not exist
+2019/02/14 20:24:23 [.../api/v1/user/user.go:170 GetUserHeatmapData()] [E] GetUserHeatmapDataByUser: Error 1305: FUNCTION gitea.strftime does not exist
+2019/02/14 20:24:48 [.../api/v1/user/user.go:170 GetUserHeatmapData()] [E] GetUserHeatmapDataByUser: Error 1305: FUNCTION gitea.strftime does not exist
+2019/02/14 21:07:24 [I] Log Mode: File(Info)
+2019/02/14 21:07:24 [I] XORM Log Mode: File(Info)
+2019/02/14 21:07:24 [I] Cache Service Enabled
+2019/02/14 21:07:24 [I] Session Service Enabled
+2019/02/14 21:07:24 [I] Beginning ORM engine initialization.
+2019/02/14 21:07:24 [I] ORM engine initialization attempt #1/10...
+2019/02/14 21:07:24 [I] ORM engine initialization successful!
+2019/02/14 21:07:25 [I] Git Version: 2.20.1
+2019/02/14 21:07:25 [I] SQLite3 Supported
+2019/02/14 21:07:25 [I] Run Mode: Production
+2019/02/14 21:07:25 [I] Listen: http://0.0.0.0:3000
+2019/02/14 21:07:25 [I] LFS server enabled
+2019/02/14 21:19:29 [I] Log Mode: File(Info)
+2019/02/14 21:19:29 [I] XORM Log Mode: File(Info)
+2019/02/14 21:19:29 [I] Cache Service Enabled
+2019/02/14 21:19:29 [I] Session Service Enabled
+2019/02/14 21:19:29 [I] Beginning ORM engine initialization.
+2019/02/14 21:19:29 [I] ORM engine initialization attempt #1/10...
+2019/02/14 21:19:29 [I] ORM engine initialization successful!
+2019/02/14 21:19:29 [I] Git Version: 2.20.1
+2019/02/14 21:19:29 [I] SQLite3 Supported
+2019/02/14 21:19:29 [I] Run Mode: Production
+2019/02/14 21:19:29 [I] Listen: http://0.0.0.0:3000
+2019/02/14 21:19:29 [I] LFS server enabled
+2019/02/14 21:31:15 [I] Log Mode: File(Info)
+2019/02/14 21:31:15 [I] XORM Log Mode: File(Info)
+2019/02/14 21:31:15 [I] Cache Service Enabled
+2019/02/14 21:31:15 [I] Session Service Enabled
+2019/02/14 21:31:15 [I] Beginning ORM engine initialization.
+2019/02/14 21:31:15 [I] ORM engine initialization attempt #1/10...
+2019/02/14 21:31:15 [I] ORM engine initialization successful!
+2019/02/14 21:31:15 [I] Git Version: 2.20.1
+2019/02/14 21:31:15 [I] SQLite3 Supported
+2019/02/14 21:31:15 [I] Run Mode: Production
+2019/02/14 21:31:16 [I] Listen: http://0.0.0.0:3000
+2019/02/14 21:31:16 [I] LFS server enabled
+2019/02/14 21:35:18 [I] Log Mode: File(Info)
+2019/02/14 21:35:18 [I] XORM Log Mode: File(Info)
+2019/02/14 21:35:18 [I] Cache Service Enabled
+2019/02/14 21:35:18 [I] Session Service Enabled
+2019/02/14 21:35:18 [I] Beginning ORM engine initialization.
+2019/02/14 21:35:18 [I] ORM engine initialization attempt #1/10...
+2019/02/14 21:35:18 [I] ORM engine initialization successful!
+2019/02/14 21:35:18 [I] Git Version: 2.20.1
+2019/02/14 21:35:18 [I] SQLite3 Supported
+2019/02/14 21:35:18 [I] Run Mode: Production
+2019/02/14 21:35:19 [I] Listen: http://0.0.0.0:3000
+2019/02/14 21:35:19 [I] LFS server enabled
+2019/02/14 21:37:03 [I] Log Mode: File(Info)
+2019/02/14 21:37:03 [I] XORM Log Mode: File(Info)
+2019/02/14 21:37:03 [I] Cache Service Enabled
+2019/02/14 21:37:03 [I] Session Service Enabled
+2019/02/14 21:37:03 [I] Beginning ORM engine initialization.
+2019/02/14 21:37:03 [I] ORM engine initialization attempt #1/10...
+2019/02/14 21:37:03 [I] Backing off for 3 seconds
+2019/02/14 21:37:06 [I] ORM engine initialization attempt #2/10...
+2019/02/14 21:37:06 [I] ORM engine initialization successful!
+2019/02/14 21:37:06 [I] Git Version: 2.20.1
+2019/02/14 21:37:06 [I] SQLite3 Supported
+2019/02/14 21:37:06 [I] Run Mode: Production
+2019/02/14 21:37:06 [I] Listen: http://0.0.0.0:3000
+2019/02/14 21:37:06 [I] LFS server enabled
+2019/02/14 22:18:01 [I] Log Mode: File(Info)
+2019/02/14 22:18:01 [I] XORM Log Mode: File(Info)
+2019/02/14 22:18:01 [I] Cache Service Enabled
+2019/02/14 22:18:01 [I] Session Service Enabled
+2019/02/14 22:18:01 [I] Beginning ORM engine initialization.
+2019/02/14 22:18:01 [I] ORM engine initialization attempt #1/10...
+2019/02/14 22:18:01 [I] ORM engine initialization successful!
+2019/02/14 22:18:01 [I] Git Version: 2.20.1
+2019/02/14 22:18:01 [I] SQLite3 Supported
+2019/02/14 22:18:01 [I] Run Mode: Production
+2019/02/14 22:18:02 [I] Listen: http://0.0.0.0:3000
+2019/02/14 22:18:02 [I] LFS server enabled
+2019/02/15 14:11:25 [I] Log Mode: File(Info)
+2019/02/15 14:11:25 [I] XORM Log Mode: File(Info)
+2019/02/15 14:11:25 [I] Cache Service Enabled
+2019/02/15 14:11:25 [I] Session Service Enabled
+2019/02/15 14:11:25 [I] Beginning ORM engine initialization.
+2019/02/15 14:11:25 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:11:25 [I] Backing off for 3 seconds
+2019/02/15 14:11:28 [I] ORM engine initialization attempt #2/10...
+2019/02/15 14:11:28 [I] ORM engine initialization successful!
+2019/02/15 14:11:28 [I] Git Version: 2.20.1
+2019/02/15 14:11:28 [I] SQLite3 Supported
+2019/02/15 14:11:28 [I] Run Mode: Production
+2019/02/15 14:11:29 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:11:29 [I] LFS server enabled
+2019/02/15 14:13:22 [I] Log Mode: File(Info)
+2019/02/15 14:13:22 [I] XORM Log Mode: File(Info)
+2019/02/15 14:13:22 [I] Cache Service Enabled
+2019/02/15 14:13:22 [I] Session Service Enabled
+2019/02/15 14:13:22 [I] Beginning ORM engine initialization.
+2019/02/15 14:13:22 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:13:22 [I] Backing off for 3 seconds
+2019/02/15 14:13:25 [I] ORM engine initialization attempt #2/10...
+2019/02/15 14:13:25 [I] ORM engine initialization successful!
+2019/02/15 14:13:25 [I] Git Version: 2.20.1
+2019/02/15 14:13:25 [I] SQLite3 Supported
+2019/02/15 14:13:25 [I] Run Mode: Production
+2019/02/15 14:13:26 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:13:26 [I] LFS server enabled
+2019/02/15 14:15:18 [I] Log Mode: File(Info)
+2019/02/15 14:15:18 [I] XORM Log Mode: File(Info)
+2019/02/15 14:15:18 [I] Cache Service Enabled
+2019/02/15 14:15:18 [I] Session Service Enabled
+2019/02/15 14:15:18 [I] Beginning ORM engine initialization.
+2019/02/15 14:15:18 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:15:18 [I] Backing off for 3 seconds
+2019/02/15 14:15:21 [I] ORM engine initialization attempt #2/10...
+2019/02/15 14:15:21 [I] ORM engine initialization successful!
+2019/02/15 14:15:21 [I] Git Version: 2.20.1
+2019/02/15 14:15:21 [I] SQLite3 Supported
+2019/02/15 14:15:21 [I] Run Mode: Production
+2019/02/15 14:15:22 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:15:22 [I] LFS server enabled
+2019/02/15 14:17:41 [I] Log Mode: File(Info)
+2019/02/15 14:17:41 [I] XORM Log Mode: File(Info)
+2019/02/15 14:17:41 [I] Cache Service Enabled
+2019/02/15 14:17:41 [I] Session Service Enabled
+2019/02/15 14:17:41 [I] Beginning ORM engine initialization.
+2019/02/15 14:17:41 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:17:41 [I] Backing off for 3 seconds
+2019/02/15 14:17:44 [I] ORM engine initialization attempt #2/10...
+2019/02/15 14:17:44 [I] ORM engine initialization successful!
+2019/02/15 14:17:44 [I] Git Version: 2.20.1
+2019/02/15 14:17:44 [I] SQLite3 Supported
+2019/02/15 14:17:44 [I] Run Mode: Production
+2019/02/15 14:17:44 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:17:44 [I] LFS server enabled
+2019/02/15 14:18:16 [I] Log Mode: File(Info)
+2019/02/15 14:18:16 [I] XORM Log Mode: File(Info)
+2019/02/15 14:18:16 [I] Cache Service Enabled
+2019/02/15 14:18:16 [I] Session Service Enabled
+2019/02/15 14:18:16 [I] Beginning ORM engine initialization.
+2019/02/15 14:18:16 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:18:16 [I] ORM engine initialization successful!
+2019/02/15 14:18:16 [I] Git Version: 2.20.1
+2019/02/15 14:18:16 [I] SQLite3 Supported
+2019/02/15 14:18:16 [I] Run Mode: Production
+2019/02/15 14:18:16 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:18:16 [I] LFS server enabled
+2019/02/15 14:47:55 [I] Log Mode: File(Info)
+2019/02/15 14:47:55 [I] XORM Log Mode: File(Info)
+2019/02/15 14:47:55 [I] Cache Service Enabled
+2019/02/15 14:47:55 [I] Session Service Enabled
+2019/02/15 14:47:55 [I] Beginning ORM engine initialization.
+2019/02/15 14:47:55 [I] ORM engine initialization attempt #1/10...
+2019/02/15 14:47:55 [I] ORM engine initialization successful!
+2019/02/15 14:47:55 [I] Git Version: 2.20.1
+2019/02/15 14:47:55 [I] SQLite3 Supported
+2019/02/15 14:47:55 [I] Run Mode: Production
+2019/02/15 14:47:56 [I] Listen: http://0.0.0.0:3000
+2019/02/15 14:47:56 [I] LFS server enabled

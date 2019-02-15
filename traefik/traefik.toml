@@ -1,7 +1,8 @@
-debug = false
-
-logLevel = "ERROR"
 defaultEntryPoints = ["https","http"]
+[web]
+address = ":8080"
+  [web.auth.basic]
+  users = ["admin:$apr1$vywjlb3s$7OpTTmO7sQS/1qhZhhBva."]
 
 [entryPoints]
   [entryPoints.http]
@@ -23,7 +24,11 @@ exposedByDefault = false
 [acme]
 email = "gossiauxchristophe@gmail.com"
 storage = "acme.json"
+caServer = "https://acme-staging-v02.api.letsencrypt.org/directory"
 entryPoint = "https"
-onHostRule = true
-[acme.httpChallenge]
-entryPoint = "http"
+  [acme.httpChallenge]
+  entryPoint = "http"
+
+[[acme.domains]]
+  main = "cgx.be"
+  sans = ["git.cgx.be", "traefik.cgx.be"]

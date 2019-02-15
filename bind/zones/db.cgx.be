@@ -20,3 +20,4 @@ ns1.cgx.be. IN  A   62.4.16.250
 portfolio   IN  CNAME   cgx.be.
 traefik     IN  CNAME   cgx.be.
 git         IN  CNAME   cgx.be.
+rocket      IN  CNAME   cgx.be.
